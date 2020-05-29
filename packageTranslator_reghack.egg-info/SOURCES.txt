@@ -1,0 +1,8 @@
+README.md
+setup.py
+packageTranslator/__init__.py
+packageTranslator/translator.py
+packageTranslator_reghack.egg-info/PKG-INFO
+packageTranslator_reghack.egg-info/SOURCES.txt
+packageTranslator_reghack.egg-info/dependency_links.txt
+packageTranslator_reghack.egg-info/top_level.txt

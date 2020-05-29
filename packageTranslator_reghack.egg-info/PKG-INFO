@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: packageTranslator-reghack
+Version: 0.0.1
+Summary: Translator of language packs
+Home-page: UNKNOWN
+Author: Petar Ivanov
+Author-email: author@example.com
+License: UNKNOWN
+Description: # Translator of language packs
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8.2
+Description-Content-Type: text/markdown
